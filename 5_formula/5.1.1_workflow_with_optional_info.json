@@ -1,0 +1,82 @@
+{
+    "timeframes": {
+        "Month 1": {
+            "Before ERA Access": [
+                {
+                    "step": "Complete initial registration",
+                    "info": "Visit the registration page: <https://example.com/register>"
+                },
+                {
+                    "step": "Attend orientation session",
+                    "info": "Orientation details: <https://example.com/orientation>"
+                },
+                {
+                    "step": "Submit required documents",
+                    "info": "Document submission guidelines: <https://example.com/documents>"
+                }
+            ],
+            "First Time Visit": [
+                {
+                    "step": "Schedule first visit",
+                    "info": "Schedule your visit here: <https://example.com/schedule>"
+                },
+                {
+                    "step": "Meet with advisor",
+                    "info": "Advisor meeting info: <https://example.com/advisor>"
+                },
+                {
+                    "step": "Tour the facility",
+                    "info": "Facility tour details: <https://example.com/tour>"
+                }
+            ]
+        },
+        "3 Months In": {
+            "Follow-Up": [
+                {
+                    "step": "Complete first progress report",
+                    "info": "Progress report template: <https://example.com/progress-report>"
+                },
+                {
+                    "step": "Attend follow-up meeting",
+                    "info": "Follow-up meeting schedule: <https://example.com/follow-up>"
+                },
+                {
+                    "step": "Review goals and milestones",
+                    "info": "Review guidelines: <https://example.com/goals>"
+                }
+            ]
+        },
+        "6 Months In": {
+            "Mid-Year Review": [
+                {
+                    "step": "Submit mid-year report",
+                    "info": "Mid-year report template: <https://example.com/mid-year-report>"
+                },
+                {
+                    "step": "Attend mid-year review meeting",
+                    "info": "Review meeting details: <https://example.com/review-meeting>"
+                },
+                {
+                    "step": "Adjust goals as needed",
+                    "info": "Goal adjustment tips: <https://example.com/adjust-goals>"
+                }
+            ]
+        },
+        "12 Months In": {
+            "Annual Review": [
+                {
+                    "step": "Complete annual report",
+                    "info": "Annual report template: <https://example.com/annual-report>"
+                },
+                {
+                    "step": "Attend annual review meeting",
+                    "info": "Annual review meeting schedule: <https://example.com/annual-review>"
+                },
+                {
+                    "step": "Plan for the next year",
+                    "info": "Next year planning guide: <https://example.com/next-year>"
+                }
+            ]
+        }
+    }
+}

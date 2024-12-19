@@ -1,0 +1,37 @@
+{
+    "timeframes": {
+        "Month 1": {
+            "Before ERA Access": [
+                "Step 1: Complete initial registration",
+                "Step 2: Attend orientation session",
+                "Step 3: Submit required documents"
+            ],
+            "First Time Visit": [
+                "Step 1: Schedule first visit",
+                "Step 2: Meet with advisor",
+                "Step 3: Tour the facility"
+            ]
+        },
+        "3 Months In": {
+            "Follow-Up": [
+                "Step 1: Complete first progress report",
+                "Step 2: Attend follow-up meeting",
+                "Step 3: Review goals and milestones"
+            ]
+        },
+        "6 Months In": {
+            "Mid-Year Review": [
+                "Step 1: Submit mid-year report",
+                "Step 2: Attend mid-year review meeting",
+                "Step 3: Adjust goals as needed"
+            ]
+        },
+        "12 Months In": {
+            "Annual Review": [
+                "Step 1: Complete annual report",
+                "Step 2: Attend annual review meeting",
+                "Step 3: Plan for the next year"
+            ]
+        }
+    }
+}

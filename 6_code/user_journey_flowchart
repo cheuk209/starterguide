@@ -1,0 +1,46 @@
+// User Journey
+digraph {
+	rankdir=LR size="8,5"
+	subgraph "cluster_Month 1" {
+		label="Month 1"
+		subgraph "cluster_Before ERA Access" {
+			label="Before ERA Access"
+			"Complete initial registration" [color=lightblue style=filled]
+			"Attend orientation session"
+			"Submit required documents"
+		}
+		subgraph "cluster_First Time Visit" {
+			label="First Time Visit"
+			"Schedule first visit"
+			"Meet with advisor"
+			"Tour the facility"
+		}
+	}
+	subgraph "cluster_3 Months In" {
+		label="3 Months In"
+		subgraph "cluster_Follow-Up" {
+			label="Follow-Up"
+			"Complete first progress report"
+			"Attend follow-up meeting"
+			"Review goals and milestones"
+		}
+	}
+	subgraph "cluster_6 Months In" {
+		label="6 Months In"
+		subgraph "cluster_Mid-Year Review" {
+			label="Mid-Year Review"
+			"Submit mid-year report"
+			"Attend mid-year review meeting"
+			"Adjust goals as needed"
+		}
+	}
+	subgraph "cluster_12 Months In" {
+		label="12 Months In"
+		subgraph "cluster_Annual Review" {
+			label="Annual Review"
+			"Complete annual report"
+			"Attend annual review meeting"
+			"Plan for the next year"
+		}
+	}
+}
