@@ -3,8 +3,8 @@ digraph {
 	rankdir=LR size="8,5"
 	subgraph "cluster_Month 1" {
 		label="Month 1"
-		subgraph "cluster_Before ERA Access" {
-			label="Before ERA Access"
+		subgraph "cluster_Before secyre Access" {
+			label="Before secure Access"
 			"Complete initial registration" [color=lightblue style=filled]
 			"Attend orientation session"
 			"Submit required documents"

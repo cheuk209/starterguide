@@ -1,7 +1,7 @@
 {
     "timeframes": {
         "Month 1": {
-            "Before ERA Access": [
+            "Before secure Access": [
                 {
                     "step": "Complete initial registration",
                     "info": "Visit the registration page: <https://example.com/register>"
